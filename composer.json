@@ -1,0 +1,18 @@
+{
+    "name": "dezio/phpseclib-helper",
+    "authors": [
+        {
+            "name": "Dennis Ziolkowski",
+            "email": "dezio1991@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "phpseclib/phpseclib": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DeZio\\phpseclibHelper\\": "src/"
+        }
+    }
+}
